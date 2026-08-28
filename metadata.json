@@ -1,0 +1,6 @@
+{
+  "name": "Katalog Supplier Grosir",
+  "description": "Aplikasi manajemen dan direktori katalog supplier grosir lengkap dengan detail kontak, kategori produk, minimal pembelian, dan simulasi order.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
